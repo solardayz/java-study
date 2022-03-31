@@ -1,4 +1,4 @@
-package com.solardayz.animal;
+package com.solardayz.etc.animal;
 
 public interface Animal {
 

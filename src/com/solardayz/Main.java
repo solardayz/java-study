@@ -1,7 +1,7 @@
 package com.solardayz;
 
-import com.solardayz.animal.Animal;
-import com.solardayz.animal.Dog;
+import com.solardayz.etc.animal.Animal;
+import com.solardayz.etc.animal.Dog;
 
 public class Main {
 

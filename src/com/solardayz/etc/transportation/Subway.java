@@ -1,4 +1,4 @@
-package com.solardayz.transportation;
+package com.solardayz.etc.transportation;
 
 public class Subway {
     String name;

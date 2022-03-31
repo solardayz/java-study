@@ -1,4 +1,4 @@
-package com.solardayz.animal;
+package com.solardayz.etc.animal;
 
 public class Dog implements Animal{
 

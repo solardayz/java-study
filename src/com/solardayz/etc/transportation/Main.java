@@ -1,4 +1,4 @@
-package com.solardayz.transportation;
+package com.solardayz.etc.transportation;
 
 public class Main {
     public static void main(String[] args) {

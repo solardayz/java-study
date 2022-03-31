@@ -1,4 +1,4 @@
-package com.solardayz.inheritance;
+package com.solardayz.etc.inheritance;
 
 public class Customer {
 
